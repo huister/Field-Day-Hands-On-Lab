@@ -133,7 +133,6 @@ Updating CPU and Memory
 ........................
 
 
-**Individual Exercise**
 
 In this task, you will add a CPU and increase the amount of Memory on your Windows VM.
 

@@ -5,6 +5,10 @@
 Managing the Nutanix Cluster
 -------------
 
+**Prism Element** - Prism Element is a service that provides the web UI for managing a Nutanix cluster and runs on every Controller VM (CVM) in the cluster. This local Prism service, referred to Prism Element, can be accessed via the IP of any individual CVM, or via the virtual IP for the cluster, which will redirect to the current Prism leader. There is no installation necessary, it is part of the core cluster services.
+
+**Prism Central** - Prism Element is limited to a single Nutanix cluster, so Prism Central can be used to provide a multi-cluster view. It is a centralized management tool that runs as a separate instance comprised of either a single VM or a set of VMs. It is recommended to install Prism Central in a Nutanix cluster. It is possible to install in a non-Nutanix environment, however there are several limitations in doing so. These limitations are outlined in the documentation.
+
 Conducting Prism Element initial setup
 ++++++++++++++++++++++++++++
 

@@ -100,7 +100,9 @@ In this exercise you will familiarise yourself with primary Nutanix interfaces s
 8.	Click the **gear** icon, scroll through the Settings on the left, select SSL Certificate, and take note of the following:
 
 Key Type:
+
 Signing Algorithm:
+
 Expiry Dates:
 
 9.	Click the magnifying glass found at the top right of the Prism window.

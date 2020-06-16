@@ -133,4 +133,4 @@ Click **NEXT**.
 
 .. figure:: images/16.png
  
-18. **Congratulations! You have successfully performed a VM migration using Nutanix Move**.
+18. Congratulations! You have successfully performed a VM migration using Nutanix Move.

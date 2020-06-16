@@ -77,14 +77,14 @@ In this exercise you will familiarise yourself with primary Nutanix interfaces s
 
 5.	Click the **dashboard** drop down menu (currently labeled **Health**). This drop down menu will show of all the dashboards. Select the **VM** dashboard.
 
-
+.. figure:: images/6.png
  
 
  From the **Overview** page, locate the **VM Summary** at the middle left. How many virtual machines are shown?
 
 6.	In the upper-left corner of the browser window, click **Table**.
 
-.. figure:: images/6.png
+
  
  Are any VMs listed? If so, what VMs are they? If not, why not? 
 

@@ -57,7 +57,7 @@ In this exercise you will familiarise yourself with primary Nutanix interfaces s
 1.	From the Prism UI, in the upper right corner, click the **User** drop down menu (it will be labeled with the currently logged-in user “admin”) and select **About Nutanix**.
 
 
-.. figure:: images/3.png
+.. figure:: images/4.png
  
   Which version of Acropolis (AOS) are you running?
  
@@ -67,7 +67,7 @@ In this exercise you will familiarise yourself with primary Nutanix interfaces s
 
 3.	At the upper-right, click the question mark (?). From the drop down menu, click **Health Tutorial**. This loads the **Health** Dashboard and starts a **Welcome to Health Page** dialog box, click **Next**. After the simulation loads, click **Next** through the tutorial to view the Health Dashboard features.
 
-.. figure:: images/4.png
+.. figure:: images/3.png
  
 4.	When completed, click **OK, got it!** to exit the simulation.
 

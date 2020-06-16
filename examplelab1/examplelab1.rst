@@ -65,17 +65,19 @@ In this exercise you will familiarise yourself with primary Nutanix interfaces s
  
   What is the license type on your cluster?
 
+
 2.	Click **Close** to close the dialog box.
 
 3.	At the upper-right, click the question mark (?). From the drop down menu, click **Health Tutorial**. This loads the **Health** Dashboard and starts a **Welcome to Health Page** dialog box, click **Next**. After the simulation loads, click **Next** through the tutorial to view the Health Dashboard features.
 
+.. figure:: images/5.png
 
  
 4.	When completed, click **OK, got it!** to exit the simulation.
 
 5.	Click the **dashboard** drop down menu (currently labeled **Health**). This drop down menu will show of all the dashboards. Select the **VM** dashboard.
 
-.. figure:: images/5.png
+
  
 
  From the **Overview** page, locate the **VM Summary** at the middle left. How many virtual machines are shown?

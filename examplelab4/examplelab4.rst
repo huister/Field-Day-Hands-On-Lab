@@ -118,7 +118,7 @@ In this exercise you will create a CentOS VM from an existing, pre-installed dis
 
 4.  Launch the console to see the VM being started.
 
-5.  Login with root and the credentials provided in the **Cluster General Information**.
+5.  Login with **root credentials** provided in the **Cluster General Information**.
 
 6.  Shutdown CentOS by typing the following:
      

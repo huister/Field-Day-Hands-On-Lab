@@ -33,6 +33,8 @@ Configuring an NTP Server
 .. Note::  
   You should see **0.pool.ntp.org** under the HOSTNAME OR IP ADDRESS. 
 
+.. figure:: images/3.png
+
 3.	Verify the NTP configuration using nCLI.
 
   a.	Open the PuTTY utility on your virtual desktop.
@@ -67,7 +69,7 @@ In this exercise you will familiarise yourself with primary Nutanix interfaces s
 
 3.	At the upper-right, click the question mark (?). From the drop down menu, click **Health Tutorial**. This loads the **Health** Dashboard and starts a **Welcome to Health Page** dialog box, click **Next**. After the simulation loads, click **Next** through the tutorial to view the Health Dashboard features.
 
-.. figure:: images/3.png
+
  
 4.	When completed, click **OK, got it!** to exit the simulation.
 

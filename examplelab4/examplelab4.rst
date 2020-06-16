@@ -72,7 +72,7 @@ This will add a single virtual NIC to the VM on the selected Virtual  Network
  
 5.  Select the VM, then click **Launch Console** from the **Actions** drop-down menu to access an HTML5 console to interact with the VM.
 
-6.  When prompted the enter the password for the Administrator, please enter password as **Nutanix/4u**
+6.  When prompted to enter the credentials, please refer to the **Cluster Configuration Guide (lookup).**
 
    .. figure:: images/1.png
 
@@ -87,7 +87,7 @@ This will use the virtual CD-ROM device to mount the NGT installation ISO to the
 
    .. figure:: images/4.png
  
-        Congrats! You have successfully deployed a Windows VM!
+        **Congrats! You have successfully deployed a Windows VM!**
 
 Creating a Linux Virtual Machine
 +++++++++++++++++++++++++++++++++++
@@ -118,7 +118,7 @@ In this exercise you will create a CentOS VM from an existing, pre-installed dis
 
 4.  Launch the console to see the VM being started.
 
-5.  Login with root and the credentials provided in the Cluster General Information site.
+5.  Login with root and the credentials provided in the **Cluster General Information**.
 
 6.  Shutdown CentOS by typing the following:
      

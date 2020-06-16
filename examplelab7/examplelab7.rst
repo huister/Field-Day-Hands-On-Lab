@@ -10,7 +10,7 @@ Setting up a Move VM
 In this exercise, you will work towards deploying Nutanix Move VM on a Nutanix AHV cluster. 
 
   .. NOTE::
-     Since you are in a shared resource, Move could be already been setup by the time you reached this exercise, if this is so, please reviewed the steps below and proceed to **Configuring a Migration Plan** .
+     Since you are in a shared resource, Move could have been already setup by the time you reached this exercise, if it is, please reviewed the steps below and proceed to **Configuring a Migration Plan** .
 
 1.  In your Prism Element UI, identify the IP address of the Move VM.
 2.  Open a new tab in your browser and enter the IP of your **Move** VM.
@@ -133,4 +133,4 @@ Click **NEXT**.
 
 .. figure:: images/16.png
  
-18. Congratulations! You have successfully performed a VM migration using Nutanix Move.
+18. **Congratulations! You have successfully performed a VM migration using Nutanix Move**.
